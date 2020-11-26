@@ -16,8 +16,5 @@ Pretty straightforward - navigate to the live instance and try submitting an ema
 
 CSS is generated with SASS using the command line tools. You'll need dart-sass (preferred) - [you can get it here](https://sass-lang.com/install)
 
-## Credits
-TVR - this is a stripped-down example of async / await and API endpoint testing for Authoring Level 3. Not for production. Demo only!
-
 ## License
 MIT
