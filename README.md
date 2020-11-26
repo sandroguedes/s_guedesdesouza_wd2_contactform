@@ -1,5 +1,7 @@
 # Email with AJAX
 
+This is a contact form build that should be able to send emails by means of PHP code that directs the request to the correct recipient based on the topic from a drop down list.
+
 ## Installation
 
 ## License
