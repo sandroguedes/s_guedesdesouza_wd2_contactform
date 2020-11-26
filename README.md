@@ -3,6 +3,7 @@
 This is a contact form build that should be able to send emails by means of PHP code that directs the request to the correct recipient based on the topic from a drop down list.
 
 ## Installation
+This is built with PHP, which means that aside from downloading/cloning the repo, you'll need a local server environment to be able to run the application.
 
 ## License
 #Copyright 2020 Sandro Guedes
